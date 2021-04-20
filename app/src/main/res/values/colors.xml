@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="peach">#bd6451</color>
+    <color name="brown">#7b3627</color> <!--brown -->
+    <color name="orange">#d05602</color> <!--orange -->
+    <color name="light_orange">#de742b</color> <!--light orange -->
+    <color name="orange_brown">#c76019</color> <!--orange brown -->
+    <color name="dark_brown">#492b16</color> <!--dark brown -->
+    <color name="white">#ebe2db</color>
+    <color name="sand"> #dfb497 </color>
+
+<!--    Thanks to https://colordesigner.io/gradient-generator-->
+    <array name="cardColors">
+        <item>#d05602</item>
+        <item>#c05206</item>
+        <item>#b04d0a</item>
+        <item>#a0490d</item>
+        <item>#90440f</item>
+        <item>#813f11</item>
+        <item>#733a13</item>
+        <item>#653514</item>
+        <item>#573015</item>
+        <item>#492b16</item>
+    </array>
+</resources>

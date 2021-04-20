@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Zakacat\'s Formula App</string>
+    <string name="create_a_new_card">Create a New Card</string>
+    <string name="title_and_formula">Title and Formula</string>
+    <string name="of_variables"># of variables</string>
+    <string name="details">Details</string>
+</resources>
